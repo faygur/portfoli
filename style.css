@@ -1,0 +1,68 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 300px;
+}
+.hero-section{
+    padding-top: 200px;
+    /* background-image: url(hero-section.png);
+    background-repeat: no-repeat; */
+}
+.name-highlight{
+    color: hsla(302, 80%, 57%, 0.809);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 4% ;
+}
+.half-width img{
+    width: 110%;
+}
+h1{ font-size: 60px;
+
+}
+h3{
+    font-size: 40px;
+}
+.anchor-button{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    /* color: rgba(#4fb6a8); */
+    background: linear-gradient(45deg, rgb(209, 94, 177), rgb(227, 22, 238));
+    padding: 12px 30px;
+    border-radius: 3px;
+}
+.Dream-section{
+    padding-top: 160px;
+   /* background: url('dream-bg.png');
+   background-repeat: no-repeat;
+   background-position: right; */
+}
+h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.heading{
+    text-align: center;
+}
+div.gallery img {
+    width: 30%;
+    height: auto;
+    
+  }
+  .footer {
+    position: 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(237, 71, 204);
+    color: white;
+    text-align: center;
+ }
+  
+  
